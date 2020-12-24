@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yasin Elmaci"
   avatar           : "dp2.jpeg"
-  bio              : "MSc. Epidemiology students at Imperial College London"
+  bio              : "MSc. Epidemiology student at Imperial College London"
   location         : "London, England, United Kingdom"
-  employer         : "https://www.imperial.ac.uk/school-public-health/"
+  employer         : "Imperial College London"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"yasin.elmaci20@imperial.ac.uk"
+  email            : "yasin.elmaci20@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
