@@ -1,10 +1,10 @@
 ---
-title: "Multivariate Calculus"
+title: "Numerical Methods II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/multivariate-calculus-2017
+permalink: /teaching/numerical-methods-ii-2018
 venue: "Aston University, School of Engineering and Applied Science"
-date: 2017
+date: 2018
 location: "Birmingham, United Kingdom"
 ---
 
