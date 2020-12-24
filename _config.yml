@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yasin Elmaci"
   avatar           : "profile.png"
-  bio              : "Epidemiology"
+  bio              : "MSc. Epidemiology students at Imperial College London"
   location         : "London, England, United Kingdom"
-  employer         : "MSc. Epidemiology at Imperial College London"
+  employer         : "https://www.imperial.ac.uk/school-public-health/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : #"yasin.elmaci20@imperial.ac.uk"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  artstation       : "https://yasinnewton.artstation.com/"
 
 # Reading Files
 include:
