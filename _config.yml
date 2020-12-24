@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Epidemiology"
   location         : "London, England, United Kingdom"
-  employer         : "MSc. Epidemiology at [Imperial College London](https://www.imperial.ac.uk/school-public-health/)
+  employer         : "MSc. Epidemiology at Imperial College London"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yasin.elmaci20@imperial.ac.uk"
+  email            : #"yasin.elmaci20@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
