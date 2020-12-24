@@ -8,7 +8,7 @@ date: 2018-01-01
 location: "Birmingham, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. Module leader: Dr. Jason Laurie
 
 Heading 1
 ======

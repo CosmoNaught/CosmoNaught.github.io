@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Birmingham, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. Module leader: Dr. Sotos Generalis
 
 Heading 1
 ======
