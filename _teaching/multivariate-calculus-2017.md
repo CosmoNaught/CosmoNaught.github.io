@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/multivariate-calculus-2017
 venue: "Aston University, School of Engineering and Applied Science"
-date: 2018-01-01
+date: 2017-01-01
 location: "Birmingham, United Kingdom"
 ---
 
