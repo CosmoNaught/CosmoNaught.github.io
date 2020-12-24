@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/numerical-methods-ii-2018
 venue: "Aston University, School of Engineering and Applied Science"
-date: 2018
+date: 2018-01-01
 location: "Birmingham, United Kingdom"
 ---
 

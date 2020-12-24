@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/foundation-mathematics-2017-2018
 venue: "Aston University, School of Engineering and Applied Science"
-date: 2017
+date: 2017-01-01
 location: "Birmingham, United Kingdom"
 ---
 
