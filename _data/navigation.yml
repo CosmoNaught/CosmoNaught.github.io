@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Charity affiliations"
+    url: /charity/
+    
   #- title: "Guide"
     #url: /markdown/
