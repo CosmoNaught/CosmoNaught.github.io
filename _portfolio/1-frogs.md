@@ -1,5 +1,5 @@
 ---
-title: "Fluid light association of turbulence"
+title: "Investigating co-existence dynamics of plankton biotic resistance on Batrachochytrium dendrobatidis as a food-web based ecological management strategy for aquatic ecosystems."
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
