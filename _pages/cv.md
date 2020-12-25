@@ -35,16 +35,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
