@@ -26,14 +26,17 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bash
+* Git
+* Latex
+* Advanced Linux Shell Scripting
+* Matlab
+* PowerShell
+* Python
+* R
+* Stata
 
 Projects
 ======
@@ -47,6 +50,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Voluntary and leadership
 ======
-* Currently signed in to 43 different slack teams
+*Msc. Epidemiology Academic Representative, Imperial College London, London U.K., 2020-Present
+*Shout85258 Crisis Volunteer, 2020-Present
+*Parkingson's U.K. Lay Grant Reviewer, 2019-Present
