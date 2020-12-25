@@ -52,6 +52,6 @@ Teaching
   
 Voluntary and leadership
 ======
-*Msc. Epidemiology Academic Representative, Imperial College London, London U.K., 2020-Present
-*Shout85258 Crisis Volunteer, 2020-Present
-*Parkingson's U.K. Lay Grant Reviewer, 2019-Present
+* Msc. Epidemiology Academic Representative, Imperial College London, London U.K., 2020-Present
+* Shout85258 Crisis Volunteer, 2020-Present
+* Parkingson's U.K. Lay Grant Reviewer, 2019-Present
