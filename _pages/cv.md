@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Hons.) Mathematics with Economics, Aston University, Birmingham U.K., 2015-2019
-* M.Sc. Epidemiology, Imperial College London, London U.K., 2020-Present
+* MSc. Epidemiology, Imperial College London, London U.K., 2020-Present
+* BSc. (Hons.) Mathematics with Economics, Aston University, Birmingham U.K., 2015-2019
 
 Work experience
 ======
@@ -52,6 +52,6 @@ Teaching
   
 Voluntary and leadership
 ======
-* Msc. Epidemiology Academic Representative, Imperial College London, London U.K., 2020-Present
+* MSc. Epidemiology Academic Representative, Imperial College London, London U.K., 2020-Present
 * Shout85258 Crisis Volunteer, 2020-Present
 * Parkingson's U.K. Lay Grant Reviewer, 2019-Present
