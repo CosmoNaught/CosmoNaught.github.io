@@ -54,8 +54,8 @@ Technical Skills & Languages
 Publications & References
 ======
 * Publications:
-  * Imai, N., Rawson, T., and others. [Quantifying the impact of delaying the second COVID-19 vaccine dose in England](https://doi.org/10.1016/S2468-2667(22)00337-1).
-  * Perez-Guzman, P. N., Knock, E., and others. [Epidemiological drivers of transmissibility and severity of SARS-CoV-2 in England](https://doi.org/10.1038/s41467-023-39661-5).
+  * Imai, N., Rawson, T., et. al., [Quantifying the impact of delaying the second COVID-19 vaccine dose in England](https://doi.org/10.1016/S2468-2667(22)00337-1).
+  * Perez-Guzman, P. N., Knock, E., et. al., [Epidemiological drivers of transmissibility and severity of SARS-CoV-2 in England](https://doi.org/10.1038/s41467-023-39661-5).
 
 * Manuscripts in Preparation:
   * "Applying Neural Network Emulation to Assess the Impact of Pyrethroid-Pyrrole Bed Nets on Malaria in Africa."
