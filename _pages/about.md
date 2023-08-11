@@ -26,4 +26,4 @@ Having also contributed significantly during the COVID-19 crisis by developing c
 
 If your organization or project seeks advanced expertise in machine learning engineering, epidemiological/statistical analysis, or the wider mathematical and biological domain, I am open to consulting opportunities. Whether it's strategising, problem-solving, or guiding research directions, I’m eager to contribute to missions that drive impact.
 
-Looking to drive impactful results leveraging machine learning tools and advanced analytics? [Let's collaborate.](mailto:yasin.a.elmaci@gmail.com)
+Ready for a transformative journey? Discover more about how we can collaborate on my dedicated consultancy page.(/consulting/)

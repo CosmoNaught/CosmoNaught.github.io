@@ -41,4 +41,4 @@ The world of AI is vast, and its applications in medicine, healthcare, and publi
 
 If you're looking to harness the potential of AI and machine learning, making informed decisions, or driving groundbreaking research, let's explore the possibilities together.
 
-[Ready to embark on a transformative journey? Let's collaborate.](mailto:yasin.a.elmaci@gmail.com)
+Looking to drive impactful results leveraging machine learning tools and advanced analytics? [Let's collaborate.](mailto:yasin.a.elmaci@gmail.com)
