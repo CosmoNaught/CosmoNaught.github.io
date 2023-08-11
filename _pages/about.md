@@ -18,14 +18,12 @@ Beyond the rigours of academia and research, I am deeply committed to ethically 
 
 When I'm not engrossed in my work, I channel my creativity into the world of 80s retro-synthwave music and the development of 90s-inspired video games. Imagine the charm of Dwarf Fortress, the adventure of Oregon Trail, and the depth of the classic Baldur's Gate series. On top of that, I'm penning a fantasy book series, exploring realms and characters of my own design. And when I need a break from these worlds, and London weather permitting, there's nothing like hopping on my bike—a perfect way to clear my mind and enjoy the outdoors.
 
-Consulting
-======
 Consulting Services
-
+======
 With a proven track record as a Technical Analyst at Imperial College London, where I led pioneering initiatives in machine learning for complex system modeling, and as a Research Scientist at the German Centre for Artificial Intelligence, I've harnessed the power of cutting-edge algorithms to address challenges in fields ranging from malaria modeling to predicting tumor growth. My unique blend of expertise encompasses Gaussian Processes, Neural Network emulators, Deep Neural Universal Differential Equations, and more, allowing for precise emulation and prediction in large multidimensional epidemiological analysis.
 
 Having also contributed significantly during the COVID-19 crisis by developing comprehensive statistical models and reports to guide the UK government’s response, I bring a hands-on understanding of real-world challenges and the role of data-driven solutions in addressing them.
 
 If your organization or project seeks advanced expertise in machine learning engineering, epidemiological/statistical analysis, or the wider mathematical and biological domain, I am open to consulting opportunities. Whether it's strategising, problem-solving, or guiding research directions, I’m eager to contribute to missions that drive impact.
 
-Looking to drive impactful results leveraging machine learning tools and advanced analytics? [Let's collaborate.](yasin.a.elmaci@gmail.com)
+Looking to drive impactful results leveraging machine learning tools and advanced analytics? [Let's collaborate.](mailto:yasin.a.elmaci@gmail.com)
