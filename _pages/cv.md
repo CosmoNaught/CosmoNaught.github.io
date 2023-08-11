@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc. Epidemiology, Imperial College London, London U.K., 2020-Present
+* MSc. Epidemiology, Imperial College London, London U.K., 2020-2021
 * BSc. (Hons.) Mathematics with Economics, Aston University, Birmingham U.K., 2015-2019
 
 Work experience
