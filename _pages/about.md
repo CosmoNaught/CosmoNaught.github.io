@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 A dedicated researcher, analyst and academic with a specialization in machine learning and complex system modelling, I currently focus on engineering neural network emulators tailored for multidimensional, intricate epidemiological analyses, particularly in the realm of malaria. My academic journey has brought me to prestigious institutions like Imperial College London and the German Centre for Artificial Intelligence (DFKI). Notably, my work has been recognized with publications in esteemed journals like [The Lancet](https://doi.org/10.1016/S2468-2667(22)00337-1) and [Nature](https://doi.org/10.1038/s41467-023-39661-5), further accentuating my commitment to research excellence. I’ve championed the intersection of machine learning with deep-rooted problems in epidemiology, medicine and public health.
 
 My expertise isn't limited to the biological realm; I've also delved into quantum mechanical modelling, as a lasting testament to my enduring passion for philosophical mathematics fostered early during my academic career. I am obsessed by the intricacies between the tangible and the abstract, thus I ensure that I keep my eye on broader fields, as often as I can spare it.
