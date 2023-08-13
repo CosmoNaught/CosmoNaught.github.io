@@ -5,8 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+{% assign teaching_posts_grouped_by_venue = site.teaching | group_by: "venue" %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% for venue_group in teaching_posts_grouped_by_venue %}
+  <h2>{{ venue_group.name }}</h2>
+  
+  {% assign posts_sorted_by_date = venue_group.items | sort: 'date' | reverse %}
+  {% for post in posts_sorted_by_date %}
+    {% include archive-single.html %}
+  {% endfor %}
+
 {% endfor %}
