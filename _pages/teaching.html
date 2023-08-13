@@ -5,14 +5,27 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% assign preferred_order = "Imperial College London, Department of Infectious Disease Epidemiology,Aston University, School of Engineering and Applied Science" | split: "," %} {# Add/modify venues in the order you prefer #}
+
 {% assign teaching_posts_grouped_by_venue = site.teaching | group_by: "venue" %}
 
-{% for venue_group in teaching_posts_grouped_by_venue %}
-  <h2>{{ venue_group.name }}</h2>
-  
-  {% assign posts_sorted_by_date = venue_group.items | sort: 'date' | reverse %}
-  {% for post in posts_sorted_by_date %}
+{# Display venues based on the preferred order #}
+{% for venue in preferred_order %}
+  <h2>{{ venue }}</h2>
+  {% assign posts_for_venue = site.teaching | where: 'venue', venue | sort: 'date' | reverse %}
+  {% for post in posts_for_venue %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %}
 
+{# Display other venues not in the preferred order #}
+{% for venue_group in teaching_posts_grouped_by_venue %}
+  {% unless preferred_order contains venue_group.name %}
+    <h2>{{ venue_group.name }}</h2>
+
+    {% assign posts_sorted_by_date = venue_group.items | sort: 'date' | reverse %}
+    {% for post in posts_sorted_by_date %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endunless %}
 {% endfor %}
