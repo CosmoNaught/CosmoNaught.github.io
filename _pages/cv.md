@@ -33,7 +33,7 @@ redirect_from:
 *Imperial College London, U.K. (2023 – Ongoing)*
 - Orchestrated weekly seminar events, promoting intellectual discussions among department members.
   
-Education
+## Education
 ------
 ### MSc Epidemiology 
 *Imperial College London, U.K. (2020 – 2021)*
@@ -45,14 +45,14 @@ Education
   * Notable Modules; Statistical Machine Learning, Partial Differential Equations, Numerical Methods (I & II), Mathematical Algorithms
   * Dissertation Project; "From Concept to Simulation: Designing and Conducting CFD Analysis on Auger Reactors through Granular and Volumetric Approaches"
 
-Technical Skills & Languages
+## Technical Skills & Languages
 ------
 * Programming: R, Python, Julia, C#/C++, SQL, Matlab, SAS, Latex
 * Research Software: PyTorch, TensorFlow, Keras, RStan, Julia SciML, TuringLang
 * Software Management: Git Version Control, Bash Shell Scripting (Linux/Unix)
 * Languages: Fluent in English & Spanish, Working proficiency in German & French
 
-Publications & References
+## Publications & References
 ------
 * Publications:
   * Imai, N., Rawson, T., et. al., [Quantifying the impact of delaying the second COVID-19 vaccine dose in England](https://doi.org/10.1016/S2468-2667(22)00337-1).
@@ -69,7 +69,7 @@ Publications & References
   * [spimalot](https://mrc-ide.github.io/spimalot/); The models in this package can be used to estimate key epidemic parameters and predict the course of the epidemic under different intervention scenarios.
   * [MCState](https://mrc-ide.github.io/MCstate/); Allows users to infer parameters for stochastic, compartmental models from data, using Monte Carlo methods.
 
-Conferences & Presentations
+## Conferences & Presentations
 ------
 * **Upcoming Conferences**:
   * 9th International Conference on Infectious Disease Dynamics, Bologna, Italy, November 2023
@@ -80,7 +80,7 @@ Conferences & Presentations
   * MRC GIDA Seminars, London, U.K., December 2022
     * Topic: Parameterisation and Inference in Epidemic Models
 
-Teaching
+## Teaching
 ------
 {% assign teaching_posts_grouped_by_venue = site.teaching | group_by: "venue" %}
 
@@ -112,7 +112,7 @@ Teaching
 
 </ul>
 
-Voluntary & Leadership
+## Voluntary & Leadership
 ------
 * Authored '30 Machine Learning Algorithms in 30 Days', an interactive educational series, 2023 – Ongoing
 * MSc. Epidemiology Graduate Teaching Assistant, Imperial College London, U.K., 2021 – 2022
