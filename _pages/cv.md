@@ -35,11 +35,13 @@ redirect_from:
   
 Education
 ======
-* **MSc Epidemiology, Imperial College London, U.K., 2020 – 2021**
+### MSc Epidemiology 
+*Imperial College London, U.K. (2020 – 2021)*
   * Notable Modules; Advanced Regression, Bayesian Modelling for Spatial and Spatio-temporal Data, Research Methods, Introduction to Statistical Thinking and Data Analysis, Further Methods in Infectious Disease Modelling, Outbreaks
   * Dissertation Project; “Investigating co-existence dynamics of plankton biotic resistance on Batrachochytrium dendrobatidis as a food-web based ecological management strategy for mountainous aquatic ecosystems.”
   
-* **BSc Mathematics with Economics, Aston University, U.K., 2015 – 2019**
+### BSc Mathematics with Economics
+*Aston University, U.K. (2015 – 2019)*
   * Notable Modules; Statistical Machine Learning, Partial Differential Equations, Numerical Methods (I & II), Mathematical Algorithms
   * Dissertation Project; "From Concept to Simulation: Designing and Conducting CFD Analysis on Auger Reactors through Granular and Volumetric Approaches"
 
