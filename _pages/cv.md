@@ -9,6 +9,7 @@ redirect_from:
 
 ## Professional Experience
 ------
+
 ### Technical Analyst – Machine Learning & Complex Systems
 *Imperial College London, U.K. (2023 – Ongoing)*
 - Championed evidence-based advocacy, influencing global policies on malaria prevention strategies.
@@ -35,6 +36,7 @@ redirect_from:
   
 ## Education
 ------
+
 ### MSc Epidemiology 
 *Imperial College London, U.K. (2020 – 2021)*
   * Notable Modules; Advanced Regression, Bayesian Modelling for Spatial and Spatio-temporal Data, Research Methods, Introduction to Statistical Thinking and Data Analysis, Further Methods in Infectious Disease Modelling, Outbreaks
@@ -47,6 +49,7 @@ redirect_from:
 
 ## Technical Skills & Languages
 ------
+
 * Programming: R, Python, Julia, C#/C++, SQL, Matlab, SAS, Latex
 * Research Software: PyTorch, TensorFlow, Keras, RStan, Julia SciML, TuringLang
 * Software Management: Git Version Control, Bash Shell Scripting (Linux/Unix)
@@ -54,6 +57,7 @@ redirect_from:
 
 ## Publications & References
 ------
+
 * Publications:
   * Imai, N., Rawson, T., et. al., [Quantifying the impact of delaying the second COVID-19 vaccine dose in England](https://doi.org/10.1016/S2468-2667(22)00337-1).
   * Perez-Guzman, P. N., Knock, E., et. al., [Epidemiological drivers of transmissibility and severity of SARS-CoV-2 in England](https://doi.org/10.1038/s41467-023-39661-5).
@@ -71,6 +75,7 @@ redirect_from:
 
 ## Conferences & Presentations
 ------
+
 * **Upcoming Conferences**:
   * 9th International Conference on Infectious Disease Dynamics, Bologna, Italy, November 2023
     * "Evaluating improved malaria control by switching to pyrethroid-pyrrole insecticide treated nets in Africa"
@@ -82,6 +87,7 @@ redirect_from:
 
 ## Teaching
 ------
+
 {% assign teaching_posts_grouped_by_venue = site.teaching | group_by: "venue" %}
 
 <ul>
@@ -114,6 +120,7 @@ redirect_from:
 
 ## Voluntary & Leadership
 ------
+
 * Authored '30 Machine Learning Algorithms in 30 Days', an interactive educational series, 2023 – Ongoing
 * MSc. Epidemiology Graduate Teaching Assistant, Imperial College London, U.K., 2021 – 2022
 * NHS COVID-19 Clinical Vaccinator, NHS England, U.K., 2021
