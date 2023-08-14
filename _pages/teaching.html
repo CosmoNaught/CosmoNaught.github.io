@@ -7,7 +7,6 @@ author_profile: true
 
 {% assign teaching_posts_grouped_by_venue = site.teaching | group_by: "venue" %}
 
-{# Display Imperial first #}
 {% assign imperial_posts = site.teaching | where: 'venue', "Imperial College London, Department of Infectious Disease Epidemiology" %}
 {% if imperial_posts.size > 0 %}
   <h2>Imperial College London, Department of Infectious Disease Epidemiology</h2>
@@ -16,7 +15,6 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-{# Display other institutions #}
 {% for venue_group in teaching_posts_grouped_by_venue %}
   {% unless venue_group.name == "Imperial College London, Department of Infectious Disease Epidemiology" %}
     <h2>{{ venue_group.name }}</h2>
