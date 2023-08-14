@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "epiyasin"
+  twitter          : #"epiyasin"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  artstation       : "https://yasinnewton.artstation.com/"
+  artstation       : #"https://yasinnewton.artstation.com/"
 
 # Reading Files
 include:
