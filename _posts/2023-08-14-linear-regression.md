@@ -19,6 +19,7 @@ Interestingly, when I first began my machine learning journey, I was astounded b
 Linear regression aims to model the relationship between a dependent variable $$y$$ and one or more independent variables $$x$$. When there's just one independent variable, it's called simple linear regression.
 
 The equation of the line is given by:
+
 $$ y = \beta_0 + \beta_1x + \epsilon $$
 
 Where:
