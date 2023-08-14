@@ -16,12 +16,12 @@ One of the first applications I witnessed of logistic regression was on a medica
 
 Logistic regression aims to model the probability that a given input belongs to one of the two categories. It uses the logistic function (or sigmoid function) to squeeze the output between 0 and 1:
 
-$$ \p(\X) = \frac{\epsilon^{\beta_{0}+\beta_{1}X}}{1+\epsilon^{\beta_{0}+\beta_{1}X}} $$
+$$ p(X) = \frac{\epsilon^{\beta_{0}+\beta_{1}X}}{1+\epsilon^{\beta_{0}+\beta_{1}X}} $$
 
 Where:
 
-- $$ \p(\X) $$ is the probability that the dependent event occurs, given the value of the independent variable $$ \X $$.
-- $$ \beta_{0} and \beta_{1} are coefficients $$
+- $$ p(X) $$ is the probability that the dependent event occurs, given the value of the independent variable $$ X $$.
+- $$ \beta_{0} $$ and $$ \beta_{1}$$  are coefficients
 - $$ \epsilon $$ is the base of the natural logarithm (approximately equal to 2.71828).
 
 ## Dataset Description
@@ -67,39 +67,6 @@ y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy*100:.2f}%")
 ```
-
-Got it. Let's insert a Results & Discussion section between the code and the conclusion for the Logistic Regression:
-Logistic Regression
-
-... (previous sections remain unchanged)
-Python Demo
-
-python
-
-# Required Libraries
-from sklearn.datasets import load_breast_cancer
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-
-# Load dataset
-data = load_breast_cancer()
-X = data.data
-y = data.target
-
-# Splitting data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Model training
-model = LogisticRegression(max_iter=5000)
-model.fit(X_train, y_train)
-
-# Predictions
-y_pred = model.predict(X_test)
-
-# Accuracy
-accuracy = accuracy_score(y_test, y_pred)
-print(f"Accuracy: {accuracy*100:.2f}%")
 
 ## Results & Discussion
 
