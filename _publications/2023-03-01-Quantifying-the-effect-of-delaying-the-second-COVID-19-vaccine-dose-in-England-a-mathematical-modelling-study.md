@@ -1,5 +1,5 @@
 ---
-title: “Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study”
+title: “Quantifying the effect of delaying the second COVID-19 vaccine dose in England; a mathematical modelling study”
 collection: publications
 permalink: /publication/2023-03-01-Quantifying-the-effect-of-delaying-the-second-COVID-19-vaccine-dose-in-England-a-mathematical-modelling-study
 excerpt: ‘This paper is about the number 1. The number 2 is left for future work.’
@@ -12,4 +12,4 @@ This research evaluated the consequences of England's decision to extend the int
 
 [Download paper here](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00337-1/fulltext)
 
-Recommended citation: 'Imai, N., Rawson, T., et. al. (2023). &quot;Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study.&quot; <i>The Lancet Public Health</i>. 1(1)
+Recommended citation: 'Imai, N., Rawson, T., et. al. (2023). &quot;Quantifying the effect of delaying the second COVID-19 vaccine dose in England; a mathematical modelling study.&quot; <i>The Lancet Public Health</i>. 1(1)
