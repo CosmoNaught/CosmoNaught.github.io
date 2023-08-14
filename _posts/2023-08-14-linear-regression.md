@@ -13,7 +13,9 @@ Linear regression is a foundational algorithm in the machine learning world. It'
 
 Linear regression seeks to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. For a simple linear regression (one independent variable), the formula is:
 
-\[ y = \beta_0 + \beta_1x \]
+Linear regression seeks to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. For a simple linear regression (one independent variable), the formula is:
+
+$$ y = \beta_0 + \beta_1x $$
 
 Where:
 - \( y \) is the dependent variable.
@@ -22,6 +24,8 @@ Where:
 - \( \beta_1 \) is the slope of the line.
 
 ## Python Implementation:
+
+<div style="font-size: 1.2em;">
 
 ```python
 import numpy as np
