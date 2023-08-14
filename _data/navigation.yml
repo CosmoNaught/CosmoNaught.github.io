@@ -1,28 +1,28 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/  
     
   - title: "Projects"
     url: /portfolio/
         
   - title: "Tutorials"
     url: /year-archive/
-
-  - title: "Teaching"
-    url: /teaching/  
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Charity affiliations"
-    url: /charity/
-  
+          
   - title: "Consulting Services"
     url: /consulting/
+
+  - title: "Charity affiliations"
+    url: /charity/
     
   #- title: "Guide"
     #url: /markdown/
