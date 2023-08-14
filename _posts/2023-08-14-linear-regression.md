@@ -7,8 +7,6 @@ tags:
   - Regression Algorithms
 ---
 
-# Linear Regression
-
 Linear regression is a foundational algorithm in the machine learning world. It's used to predict a continuous target variable based on one or more input features. The algorithm tries to find the best fit straight line that accurately predict the output values within a range.
 
 ## Mathematical Formulation:
