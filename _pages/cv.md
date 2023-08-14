@@ -9,17 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **MSc Epidemiology (Merit), Imperial College London, U.K., 2020 – 2021**
-  * Notable Modules; Advanced Regression, Bayesian Modelling for Spatial and Spatio-temporal Data, Research Methods, Introduction to Statistical Thinking and Data Analysis (71%), Further Methods in Infectious Disease Modelling, Outbreaks
-  * Dissertation Project; “Investigating co-existence dynamics of plankton biotic resistance on Batrachochytrium dendrobatidis as a food-web based ecological management strategy for mountainous aquatic ecosystems.”
-  
-* **BSc Mathematics with Economics (2:1), Aston University, U.K., 2015 – 2019**
-  * Notable Modules; Statistical Machine Learning, Partial Differential Equations, Numerical Methods (I & II), Mathematical Algorithms
-  * Dissertation Project; "From Concept to Simulation: Designing and Conducting CFD Analysis on Auger Reactors through Granular and Volumetric Approaches"
-
-Work Experience
+Professional Experience
 ======
 * **2023-Ongoing: Technical Analyst (Machine Learning and Complex System Modelling)**
   * Imperial College London, U.K.
@@ -43,6 +33,16 @@ Work Experience
     * Collaborated on models for infectious disease transmission during COVID-19.
     * Managed open-source packages (OSS) development.
     * Supervised by: Prof. Neil Ferguson
+
+Education
+======
+* **MSc Epidemiology (Merit), Imperial College London, U.K., 2020 – 2021**
+  * Notable Modules; Advanced Regression, Bayesian Modelling for Spatial and Spatio-temporal Data, Research Methods, Introduction to Statistical Thinking and Data Analysis (71%), Further Methods in Infectious Disease Modelling, Outbreaks
+  * Dissertation Project; “Investigating co-existence dynamics of plankton biotic resistance on Batrachochytrium dendrobatidis as a food-web based ecological management strategy for mountainous aquatic ecosystems.”
+  
+* **BSc Mathematics with Economics (2:1), Aston University, U.K., 2015 – 2019**
+  * Notable Modules; Statistical Machine Learning, Partial Differential Equations, Numerical Methods (I & II), Mathematical Algorithms
+  * Dissertation Project; "From Concept to Simulation: Designing and Conducting CFD Analysis on Auger Reactors through Granular and Volumetric Approaches"
 
 Technical Skills & Languages
 ======
