@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Charity affiliations"
+title: "Charity Affiliations"
 permalink: /charity/
 author_profile: true
 redirect_from:
