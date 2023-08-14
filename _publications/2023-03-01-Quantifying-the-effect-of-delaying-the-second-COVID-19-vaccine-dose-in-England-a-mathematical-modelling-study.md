@@ -2,7 +2,7 @@
 title: Quantifying the effect of delaying the second COVID-19 vaccine dose in England; a mathematical modelling study
 collection: publications
 permalink: /publication/2023-03-01-Quantifying-the-effect-of-delaying-the-second-COVID-19-vaccine-dose-in-England-a-mathematical-modelling-study
-excerpt: ‘This paper is about the number 1. The number 2 is left for future work.’
+excerpt: ‘England's.’
 date: 2023-03-01
 venue: ‘The Lancet Public Health’
 paperurl: ‘https://doi.org/10.1016/S2468-2667(22)00337-1’
