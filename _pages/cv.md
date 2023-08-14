@@ -113,8 +113,7 @@ redirect_from:
 </ul>
 
 ## Voluntary & Leadership
-
-
+------
 * Authored '30 Machine Learning Algorithms in 30 Days', an interactive educational series, 2023 – Ongoing
 * MSc. Epidemiology Graduate Teaching Assistant, Imperial College London, U.K., 2021 – 2022
 * NHS COVID-19 Clinical Vaccinator, NHS England, U.K., 2021
