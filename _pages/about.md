@@ -13,7 +13,7 @@ A dedicated researcher, analyst and academic with a specialization in machine le
 
 While machine learning engineering remains my primary focus, I've also been intrigued by quantum mechanical modelling, as a lasting testament to my enduring passion for the concrete and abstract in mathematics fostered early during my academic career. I try to explore these broader areas whenever time allows. I am deeply committed to ethically responsible AI development, ensuring that our solutions stand up to the highest standards of integrity and applicability across influential sectors. I'm fortunate to speak multiple languages - English, Spanish, German, and French. These skills have often helped me connect across cultures and collaborate on global platforms.
 
-When I'm not engrossed in my work, I channel my creativity into the world of 80s retro-synthwave music and the development of 90s-inspired video games. Imagine the charm of Dwarf Fortress and the wonders of the classic Baldur's Gate series. On top of that, I'm penning a fantasy book series, exploring realms and characters of my own design. For a more analog break, if London's weather agrees, I love taking my bike out for a spin. It's my way of connecting with the world outside.
+<!-- When I'm not engrossed in my work, I channel my creativity into the world of 80s retro-synthwave music and the development of 90s-inspired video games. Imagine the charm of Dwarf Fortress and the wonders of the classic Baldur's Gate series. On top of that, I'm penning a fantasy book series, exploring realms and characters of my own design. For a more analog break, if London's weather agrees, I love taking my bike out for a spin. It's my way of connecting with the world outside. -->
 
 # Consulting Services
 ------
