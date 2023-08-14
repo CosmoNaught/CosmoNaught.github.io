@@ -7,6 +7,8 @@ redirect_from:
   - /consulting/
 ---
 
+------
+
 {% include base_path %}
 
 ## Background & Achievements
