@@ -7,31 +7,32 @@ redirect_from:
   - /resume
 ---
 
-Professional Experience
-======
-* **2023-Ongoing: Technical Analyst (Machine Learning and Complex System Modelling)**
-  * Imperial College London, U.K.
-    * Led evidence-based advocacy for malaria prevention strategies.
-    * Advocated for the integration of cutting-edge Machine Learning tools for the malaria modelling.
-    * Engineered Neural Network emulators for malaria dynamics analysis in Africa.
-    * Research on bed net strategies for malaria control.
-    * Supervised by: Prof. Thomas Churcher
+## Professional Experience
+------
+### Technical Analyst – Machine Learning & Complex Systems
+*Imperial College London, U.K. (2023 – Ongoing)*
+- Championed evidence-based advocacy, influencing global policies on malaria prevention strategies.
+- Engineered machine learning algorithms, focusing on Gaussian Processes and Neural Network emulators, to study malaria dynamics in Africa.
+- Led research projects emphasizing statistical evaluations of bed net strategies for malaria control, revealing potential improvements via data-driven approaches.
+  
+### Research Scientist – Machine Learning
+*German Centre for Artificial Intelligence (DFKI), DE (2022 – 2023)*
+- Spearheaded research using Deep Neural Networks for complex system modelling, including predictive tumour growth tools using Deep Neural Universal Differential Equations.
+- Extended machine learning tools to model criminal behaviour and gun violence dispersion.
+- Advocated and practiced AI ethics and safety in all research dimensions.
+- Enhanced modelling techniques using open-source frameworks like SciML and TuringLang.
 
-* **2022-2023: Research Scientist (Machine Learning & Applied Mathematics)**
-  * German Centre for Artificial Intelligence (DFKI), DE.
-    * Pioneering research on Deep Neural Networks for complex system modelling.
-    * Generalised predictive frameworks for various applications.
-    * Incorporated AI ethics and safety in all research.
-    * Employed open-source frameworks for improved modelling.
-    * Supervised by: Prof. Sebastian Vollmer
+### Research Assistant – COVID-19 Real Time Modelling
+*Imperial College London, U.K. (2021 – 2023)*
+- Awarded the “SPI-M-O Award for Modelling and Data Support” presented by the UK Government’s Chief Scientific and Medical Officers.
+- Produced comprehensive weekly reports for SPI-M-O & SAGE during the COVID-19 pandemic.
+- Developed models for infectious disease transmission.
+- Supervised open-source package developments, ensuring rigorous statistical consistency.
 
-* **2021-2023: COVID-19 Real Time Modelling Research Assistant**
-  * Imperial College London, U.K.
-    * Developed comprehensive reports for SPI-M-O & SAGE.
-    * Collaborated on models for infectious disease transmission during COVID-19.
-    * Managed open-source packages (OSS) development.
-    * Supervised by: Prof. Neil Ferguson
-
+### MRC GIDA Internal Seminar Series Co-Organiser (Voluntary)
+*Imperial College London, U.K. (2023 – Ongoing)*
+- Orchestrated weekly seminar events, promoting intellectual discussions among department members.
+  
 Education
 ======
 * **MSc Epidemiology, Imperial College London, U.K., 2020 – 2021**
@@ -111,6 +112,7 @@ Teaching
 
 Voluntary & Leadership
 ======
+* Authored '30 Machine Learning Algorithms in 30 Days', an interactive educational series, 2023 – Ongoing
 * MSc. Epidemiology Graduate Teaching Assistant, Imperial College London, U.K., 2021 – 2022
 * NHS COVID-19 Clinical Vaccinator, NHS England, U.K., 2021
 * Lay Grant Reviewer, Parkinson’s UK, U.K., 2019 – Ongoing
