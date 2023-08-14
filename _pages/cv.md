@@ -15,7 +15,7 @@ redirect_from:
 - Engineered machine learning algorithms, focusing on Gaussian Processes and Neural Network emulators, to study malaria dynamics in Africa.
 - Led research projects emphasizing statistical evaluations of bed net strategies for malaria control, revealing potential improvements via data-driven approaches.
   
-### Research Scientist – Machine Learning
+### Research Scientist – Machine Learning & Applied Mathematics
 *German Centre for Artificial Intelligence (DFKI), DE (2022 – 2023)*
 - Spearheaded research using Deep Neural Networks for complex system modelling, including predictive tumour growth tools using Deep Neural Universal Differential Equations.
 - Extended machine learning tools to model criminal behaviour and gun violence dispersion.
@@ -29,7 +29,7 @@ redirect_from:
 - Developed models for infectious disease transmission.
 - Supervised open-source package developments, ensuring rigorous statistical consistency.
 
-### MRC GIDA Internal Seminar Series Co-Organiser (Voluntary)
+### MRC GIDA Internal Seminar Series Co-Organiser
 *Imperial College London, U.K. (2023 – Ongoing)*
 - Orchestrated weekly seminar events, promoting intellectual discussions among department members.
   
