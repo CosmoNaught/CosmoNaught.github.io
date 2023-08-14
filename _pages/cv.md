@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Professional Experience
 ======
 * **2023-Ongoing: Technical Analyst (Machine Learning and Complex System Modelling)**
