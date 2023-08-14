@@ -18,10 +18,10 @@ Linear regression seeks to model the relationship between a dependent variable a
 $$ y = \beta_0 + \beta_1x $$
 
 Where:
-- $$\( y \)$$ is the dependent variable.
-- $$\( x \)$$ is the independent variable.
-- $$\( \beta_0 \)$$ is the y-intercept.
-- $$\( \beta_1 \)$$ is the slope of the line.
+- $$ y $$ is the dependent variable.
+- $$ x $$ is the independent variable.
+- $$ \beta_0 $$ is the y-intercept.
+- $$ \beta_1 $$ is the slope of the line.
 
 ## Python Implementation:
 
