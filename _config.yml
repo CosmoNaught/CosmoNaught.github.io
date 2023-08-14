@@ -86,8 +86,8 @@ author:
   location         : "London, England, United Kingdom"
   employer         : "Imperial College London"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yasin.elmaci20@imperial.ac.uk"
+  googlescholar    : https://scholar.google.co.uk/citations?user=VICJT0gAAAAJ&hl=en
+  email            : "yasin.a.elmaci@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yasin-elmaci/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
