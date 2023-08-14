@@ -2,7 +2,7 @@
 title: Quantifying the effect of delaying the second COVID-19 vaccine dose in England; a mathematical modelling study
 collection: publications
 permalink: /publication/2023-03-01-Quantifying-the-effect-of-delaying-the-second-COVID-19-vaccine-dose-in-England-a-mathematical-modelling-study
-excerpt: ‘England's.’
+excerpt: ‘England's decision to extend the COVID-19 vaccine dose interval resulted in reduced hospitalizations and deaths, emphasizing the success of prioritizing broader partial protection.’
 date: 2023-03-01
 venue: ‘The Lancet Public Health’
 paperurl: ‘https://doi.org/10.1016/S2468-2667(22)00337-1’
