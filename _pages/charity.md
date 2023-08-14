@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 Charity work, for me, is more than just volunteering time or resources; it's a commitment to create meaningful change and offer support where it's most needed. Over the years, I have been fortunate enough to align my professional skills and personal passions with organizations that are making a genuine difference in the lives of individuals. Whether it's advancing critical research for debilitating diseases or offering a hand to hold during rough times, my affiliations with various charities are a testament to my belief in the power of collective efforts. Here are some of the organizations I'm deeply proud to be affiliated with:
 
 # Parkinson's UK
