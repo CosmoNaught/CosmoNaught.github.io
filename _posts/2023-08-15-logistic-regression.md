@@ -70,7 +70,7 @@ print(f"Accuracy: {accuracy*100:.2f}%")
 
 ## Results & Discussion
 
-After loading the Breast Cancer dataset and splitting it into training and test sets, we trained a logistic regression model using the training data. When we used this model to predict whether the tumors in the test set were benign or malignant, we achieved an accuracy of approximately $$ accuracy \times 100 \pc $$. This suggests that logistic regression provides a reliable means to classify tumors based on their features. However, it's essential to look at other metrics like precision, recall, and F1-score for a more comprehensive evaluation, especially for medical datasets where false negatives or false positives could have significant implications.
+After loading the Breast Cancer dataset and splitting it into training and test sets, we trained a logistic regression model using the training data. When we used this model to predict whether the tumors in the test set were benign or malignant, we achieved an accuracy of approximately $$ accuracy \times 100 \% $$. This suggests that logistic regression provides a reliable means to classify tumors based on their features. However, it's essential to look at other metrics like precision, recall, and F1-score for a more comprehensive evaluation, especially for medical datasets where false negatives or false positives could have significant implications.
 
 ## Conclusion
 
