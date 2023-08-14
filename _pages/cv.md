@@ -81,9 +81,35 @@ Conferences & Presentations
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign teaching_posts_grouped_by_venue = site.teaching | group_by: "venue" %}
+
+<ul>
+
+{% assign imperial_posts = site.teaching | where: 'venue', "Imperial College London, Department of Infectious Disease Epidemiology" %}
+{% if imperial_posts.size > 0 %}
+  <li><strong>Imperial College London, Department of Infectious Disease Epidemiology</strong>
+    <ul>
+      {% for post in imperial_posts %}
+        <li>{% include archive-single-cv.html %}</li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endif %}
+
+{% for venue_group in teaching_posts_grouped_by_venue %}
+  {% unless venue_group.name == "Imperial College London, Department of Infectious Disease Epidemiology" %}
+    <li><strong>{{ venue_group.name }}</strong>
+      <ul>
+        {% assign posts_sorted_by_date = venue_group.items | sort: 'date' | reverse %}
+        {% for post in posts_sorted_by_date %}
+          <li>{% include archive-single-cv.html %}</li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endunless %}
+{% endfor %}
+
+</ul>
 
 Voluntary & Leadership
 ======
