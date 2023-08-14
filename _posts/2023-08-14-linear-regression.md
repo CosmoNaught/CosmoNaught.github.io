@@ -45,7 +45,7 @@ How can we predict the median value of houses in Boston based on the number of r
 
 ## Python Implementation:
 
-To demonstrate the use of linear regression, we'll use the `Boston Housing dataset` available in the `sklearn.datasets package`.
+To demonstrate the use of linear regression, we'll use the `Boston Housing dataset` available in the `sklearn.datasets` package.
 
 ```python
 # Required Libraries
@@ -86,3 +86,6 @@ print(f"Mean Squared Error: {mean_squared_error(y_test, y_pred)}")
 # Conclusion 
 
 Linear regression, with its directness and interpretability, is an excellent starting point in the machine learning journey. Its strengths lie in its ability to provide initial insights, quick predictions, and a foundational understanding of relationships between variables. However, it's also essential to recognize its limitations. For instance, it assumes a linear relationship between variables and might not capture more complex interactions. As one delves deeper into the realm of machine learning, comparing the performance and insights of linear regression to more advanced models becomes a valuable exercise. It underscores the balance of complexity versus interpretability, and the importance of choosing the right tool for the job.
+
+# Further Reading
+TBD
