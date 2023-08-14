@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Logistic Regression'
+date: 2023-08-15
+permalink: /posts/2023/08/logistic-regression/
 tags:
   - cool posts
   - category1
