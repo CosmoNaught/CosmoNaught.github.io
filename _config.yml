@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yasin Elmaci"
+title                    : "Cosmo N. Santoni"
 title_separator          : "-"
-name                     : &name "Yasin Elmaci"
+name                     : &name "Cosmo N. Santoni"
 description              : &description "Epi"
-url                      : https://epiyasin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://CosmoNaught.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "epiyasin/epiyasin.github.io"
+repository               : "CosmoNaught/CosmoNaught.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yasin Elmaci"
+  name             : "Cosmo N. Santoni"
   avatar           : "dp3.jpeg"
   bio              : "Technical Analyst in Machine Learning & Complex System Modelling at Imperial College London"
   location         : "London, England, United Kingdom"
   employer         : "Imperial College London"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.co.uk/citations?user=VICJT0gAAAAJ&hl=en
-  email            : "yasin.a.elmaci@gmail.com"
+  email            : "santonicosmo@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "epiyasin"
+  github           : "CosmoNaught"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yasin-elmaci/"
+  linkedin         : "https://www.linkedin.com/in/cosmo-santoni/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"epiyasin"
+  twitter          : #"CosmoNaught"
   vine             :
   weibo            :
   xing             :

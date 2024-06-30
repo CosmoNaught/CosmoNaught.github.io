@@ -70,7 +70,7 @@ redirect_from:
   * "Investigating Parameterisation and Inference Trade-Offs in Stochastic and Deterministic Models."
 
 * Software & Tools:
-  * [siremu](https://github.com/epiyasin/siremu); A (WIP) Python Package for Epidemic Simulation and Emulation utilising advanced Neural Network architectures.
+  * [siremu](https://github.com/CosmoNaught/siremu); A (WIP) Python Package for Epidemic Simulation and Emulation utilising advanced Neural Network architectures.
   * [sircovid](https://mrc-ide.github.io/sircovid/); Tools to perform Bayesian analysis of complex stochastic models using adaptive Metropolis-Hastings and particle MCMC.
   * [spimalot](https://mrc-ide.github.io/spimalot/); The models in this package can be used to estimate key epidemic parameters and predict the course of the epidemic under different intervention scenarios.
   * [MCState](https://mrc-ide.github.io/MCstate/); Allows users to infer parameters for stochastic, compartmental models from data, using Monte Carlo methods.
